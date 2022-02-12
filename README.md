@@ -1,15 +1,11 @@
-# Basic Sample Hardhat Project
+# My First NFT Project via Buildspace Learning Portal!
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project utilized Hardhat and Replit to build, Alchemy and MetaMask as 3rd party services. 
 
-Try running some of the following tasks:
+The latet deployed contract address on Rinkeby is: 
+0xBF3D937487d74801De4907Aaaf37d7AA3dd86FbD
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+And here's a sample of minted new collection on OpenSea testnet:
+https://testnets.opensea.io/collection/squarenft-37zf3ohbiv
+
+
